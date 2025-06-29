@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ats-resume-tracking-project",
+  "private_key_id": "c851aa8dbacc92973481d25506377bf6c97d205e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMq2uVJKSwp8HE\nDXemI1SoTW7kMaC3S0kXFIvGn2+2DHne1wwVFVm23PJt+1ZtYaAsqRTMsNREpA4/\nxhQ5W82d5uRyxeMMnWX/hsJbMY7jZsWtiAue5xSZpPL2ZUb1L+vqNbHm4yUahOAs\nMZsEmfHf/V8MZshcgdAWIdlIdOr3i0TB3qL0Fl7lrH/Vp/OVVZK+X2kMVsHmhsB5\nQ+dVJyKahMVEQxRfCpz+Na1fAFRi6frtYNejhWmzKE+yY9JmE2noU7TxHl9Is97m\nkdiXXZkZby3FQ4mR681uGd82OjGW4/kSVAvWv7yp2yNLODeK5LLojSsj7uwoy9T7\nF8dyVb8BAgMBAAECggEAIYj/6HDX3EssfFVxkqMM2sPPROwdx5K6H+JBsdKLcRKT\nwG/Pfr/gEo6a2Wr6gxMhNdghfJWHvlR8MjZgN3LDmtkLewPSG03J+eeofl09KqT7\nBF87ejamQTOODNHU4dVPjDFunCSBPpphidQ58HPR9i/TjFpl/4RUpl+29MCVhGg+\nHPi9kgQFCmPGI+hxx+4tUcBOodpWGIiP0izbFS69vv7PHYNaDy/UN2GpOjV8B5gq\nVuDY8vh5IKr3KeZD/LkDvX+O2Gopyo2+/QtDCy5R96PtDinyZ1NxSwx/P3mMPGD2\nRMSHMtm8LoGpBU4QkAC727llXkzOOY9qw2n4QyfEbQKBgQDp9zbOw3ami3ubFByK\n4OZh6KUhEjNOAx2+i+6X6e7AIB6VbNrTDYhwlGa7bGQ30U/gfef0bF9QkJqrMC8D\nJKkWIHC0k7mN/DdnIizRPxidpV04pAZTYPfl9a30oXpZHvi4KMPQ9CYahNaU5WPf\nQtpVhvKSnQUJn1kgiyKEXpIHLQKBgQDf8eTN/ct7q3K4mZk+XjGwgwMAfraqfbLw\nWfGxzj5ynLcuQR1ZHaKiTBIlwtdfRvXPuETqHAnjHDKdEVr2V2zzV3lVlOMffSSN\nA3y6wpfbxuSUUcJqiAtCMyEtQZs0VOrHelAYYS+rcsgfBKAxKIjpLhp4rxqNv0T7\n4MHpkqb7pQKBgAzzrokLsQnPNuyC1IGrqZVJ97o487Yh3geqX27xeFISdR74g7Sj\nTyZMUNOXUIT2hWF8FtclGLGxD57ib/fQk7ux2AtnEiKWD8sZzTlYMNipStvT2LXM\n7GxCiXq9ZbSBTmuDdjOfEGzvZaGggULexI9vhQYwwxKhS6HNkf+Z7KORAoGAUxbx\nCezsnsoSGqQC070nOpKhfoGFTOSui7cTkiEv0l6LKMJIHVR9jzIiWZhdSKCPe66n\nAyW8FWPU86oI0fXGGtON1U8Upg5MjXWJxdGFfqnhDZb4R4aKhtlpqdz5tQT8x15+\ncU093qML1VZmCVc81Seh8r0lYQpikgHmcL9U7XECgYEAi3f0UITnB6bf6iBsmAPS\n3JprKUh8MJwyy5Og8qsRx61c3p2QKzHdVBsXNG2pOWHgTGxqC2iDqfocOg6C1g3U\nuIAnHtrbvfhXIs4rXfe3f1db81ewdDn2g8PlXLiDgrBAIhzUZw0hON1I9kvXE1g2\n9KabaA18Zbde6VSvZtCHWC4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ats-resume-project@ats-resume-tracking-project.iam.gserviceaccount.com",
+  "client_id": "101744429953511285354",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ats-resume-project%40ats-resume-tracking-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
